@@ -1,19 +1,24 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "data-incubate.github.io"
+  favicon: logo.jpg
+  title: "Research and Data Incubator"
   navbar:
-    left:
+    logo: logo.jpg
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: customers.qmd
+        text: Our Customers
+      - href: contact.qmd
+        text: Contact us!
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
-    toc: true
-
-
+    toc: True
+    highlight-style: tango
 

@@ -1,7 +1,79 @@
----
-title: "data-incubate.github.io"
----
+<div class = "jul">
+<h1>Our Mission</h1>
 
-This is a Quarto website.
+<h2>Project design and data analysis research for effective results</h2>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<h3>Introduction to the institution</h3>
+<p>Launching a business specialized in research projects involving both primary and secondary data with expertise in various data analysis methods, including predictive models.</p>
+
+<h3>Business introduction</h3>
+<p>We design and execute innovative research and policy studies using cutting-edge data science methods. We also analyze your data in a timely manner according to your needs.</p>
+
+<h3>Research collaborator</h3>
+<p>Research collaborations include individual researchers, academic institutions, and healthcare companies from around the world.</p>
+
+<h3>Research flow</h3>
+<p>Share content with real-time study results to provide ongoing feedback on your research, aligning goals and expectations with the results in the final analysis report.</p>
+
+<h3>Role of the institution</h3>
+<p>We provide professional remote research and data analysis services. Our team is equipped to work with your company or in-house team or independently to undertake comprehensive analysis and design projects. We focus on leveraging our expertise to provide advanced research and data analytics solutions that drive innovation and insight, and improve the efficiency and effectiveness of your projects.</p>
+</div>
+
+<div class = "jul">
+<h1>Our Institution's Strengths</h1>
+<ol>
+<li>Data privacy and integrity
+<p>We adhere to strict data privacy policies to ensure utmost confidentiality and compliance with the highest industry standards.</p></li>
+
+<li>Collaborative and agile approach
+<p>As your partner in the pursuit of better solutions, we work with you to provide ongoing feedback and adjustments to fit your needs.</p></li>
+
+<li>Continuous innovation
+<p>In a rapidly evolving research environment, we are committed to staying ahead of the curve, always optimizing our technologies and tools.</p></li>
+
+<li>End-to-end project support
+<p>We provide full project support, managing the entire research process from funding identification to proposal writing and publication.</p></li>
+
+<li> Expert data analysis
+<p>Our skilled data analytics team tailors methodologies to suit different project requirements, delivering optimal results for each assignment.
+</p></li></ol>
+</div>
+
+
+<div class = "jul">
+<h1>Our Business Model</h1>
+
+<h2>Transparent Collaboration: Our Commitment to Project Success</h2>
+
+<h3>Research services</h3>
+<ol>
+<li>Proposal
+<p>We provide an important role of research proposal. Our meticulous approach ensures that we work towards anticipated data and analysis methods and research objectives.</p></li>
+
+<li>Creation of IRB
+<p>Tailor your IRB application to the specific needs of your project, ensuring a streamlined and efficient review process. We tailor each IRB application to the specific needs of the project, providing an accurate and efficient review process. We provide comprehensive documentation support for information from IRB applications to informed consent forms, and ensure materials are compliant and accurate. We provide comprehensive support throughout the IRB process, including detailed reviews, necessary revisions, and direct contact with the IRB office, culminating in accurate data updates.</p></li>
+
+<li>Data collection
+<p>Provides guidance on data collection tools, types of data to be collected, and estimating appropriate sample size based on the specifics of the study.</p></li>
+
+<li>Data analysis
+<p>We specialize in customized data analysis for research using accurate analytical statistical techniques.</p></li>
+
+<li>Manuscript writing and preparation
+<p>We use the collected data and information to organize the manuscript and prepare it for publication through final consultation.</p></li>
+
+<li>Submission to SCI and KCI journals
+<p>We consult with desired journals, prepare manuscripts based on the author's opinions, and submit to SCI and KCI journals.</p></li>
+
+<li>Follow-up for publication
+<p>We support responding to comments to reviewers until publication of the submitted journal is complete.</p></li>
+
+<li>English language confirmation for manuscripts to be published in English
+<p>Our team is comprised of native English-speaking researchers. We provide English language review of your research paper.</p></li>
+
+<li>English abstract provided
+<p>We provide abstracts and research summaries of papers in Korean and English.</p></li>
+</ol>
+</div>
+
+

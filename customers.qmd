@@ -1,0 +1,13 @@
+<div id="jul2">
+<h1>Our customers</h1></div>
+<br>
+
+<div class = "jul" style = "width: 48%; height: 250px;">
+Independent researcher
+<p>Researchers from prestigious universities in Korea and around the world choose us for comprehensive services ranging from proposal writing, data collection, data analysis, and manuscript submission.</p></div>
+
+<div class = "jul" style = "width: 48%; height: 250px;">
+Research institute
+<p>We work closely with institutions to inform and optimize policy based on our research findings. Our projects range from identifying social determinants that influence health to analyzing gaps in health care delivery. We also provide data analysis in various fields.</p></li>
+
+</div>

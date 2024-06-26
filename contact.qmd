@@ -1,0 +1,6 @@
+<div class = "jul">
+<h1>Contact us</h1>
+<p>Do you have any questions, feedback or comments? We will help you every step of the way with the most affordable prices.</p>
+<p><em>Location</em>: Daejeon, South Korea</p>
+<p><em>Email</em>: <a href="mailto: dataincubate@gmail.com">dataincubate@gmail.com</a></p>
+</div>
