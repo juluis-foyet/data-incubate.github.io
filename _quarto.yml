@@ -5,20 +5,31 @@ project:
 website:
   favicon: logo.jpg
   title: "Research and Data Incubator"
-  navbar:
+  back-to-top-navigation: true
+  page-navigation: true
+  sidebar:
+    style: "docked"
     logo: logo.jpg
-    right:
-      - href: index.qmd
-        text: Home
-      - href: customers.qmd
-        text: Our Customers
-      - href: contact.qmd
-        text: Contact us!
+    contents:
+      - section: "Home"
+        contents:
+          - index.qmd
+          - strength.qmd
+          - business.qmd
+      - customers.qmd
+      - contact.qmd
+  search:
+    location: sidebar
+    type: overlay
+  
+          
 
 format:
   html:
     theme: journal
     css: styles.css
     toc: True
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
     highlight-style: tango
-

@@ -1,0 +1,85 @@
+---
+title: Our Business Model
+---
+
+::: jul
+<h2>Transparent Collaboration: Our Commitment to Project Success</h2>
+
+<h3>Research services</h3>
+
+<ol>
+
+<li>
+
+Proposal
+
+<p>We provide an important role of research proposal. Our meticulous approach ensures that we work towards anticipated data and analysis methods and research objectives.</p>
+
+</li>
+
+<li>
+
+Creation of IRB
+
+<p>Tailor your IRB application to the specific needs of your project, ensuring a streamlined and efficient review process. We tailor each IRB application to the specific needs of the project, providing an accurate and efficient review process. We provide comprehensive documentation support for information from IRB applications to informed consent forms, and ensure materials are compliant and accurate. We provide comprehensive support throughout the IRB process, including detailed reviews, necessary revisions, and direct contact with the IRB office, culminating in accurate data updates.</p>
+
+</li>
+
+<li>
+
+Data collection
+
+<p>Provides guidance on data collection tools, types of data to be collected, and estimating appropriate sample size based on the specifics of the study.</p>
+
+</li>
+
+<li>
+
+Data analysis
+
+<p>We specialize in customized data analysis for research using accurate analytical statistical techniques.</p>
+
+</li>
+
+<li>
+
+Manuscript writing and preparation
+
+<p>We use the collected data and information to organize the manuscript and prepare it for publication through final consultation.</p>
+
+</li>
+
+<li>
+
+Submission to SCI and KCI journals
+
+<p>We consult with desired journals, prepare manuscripts based on the author's opinions, and submit to SCI and KCI journals.</p>
+
+</li>
+
+<li>
+
+Follow-up for publication
+
+<p>We support responding to comments to reviewers until publication of the submitted journal is complete.</p>
+
+</li>
+
+<li>
+
+English language confirmation for manuscripts to be published in English
+
+<p>Our team is comprised of native English-speaking researchers. We provide English language review of your research paper.</p>
+
+</li>
+
+<li>
+
+English abstract provided
+
+<p>We provide abstracts and research summaries of papers in Korean and English.</p>
+
+</li>
+
+</ol>
+:::
