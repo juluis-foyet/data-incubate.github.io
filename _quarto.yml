@@ -5,6 +5,7 @@ project:
 website:
   favicon: logo.jpg
   title: "Research and Data Incubator"
+  site-url: https://data-incubate.github.io
   back-to-top-navigation: true
   page-navigation: true
   sidebar:
